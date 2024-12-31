@@ -1,1 +1,32 @@
-das ist eine Übersicht der ISO27001
+# ISO 27001 Toolkit
+
+Willkommen zu meinem GitHub-Repository rund um ISO 27001, Informationssicherheits-Managementsysteme (ISMS), und Best Practices für Audits und Beratung.
+
+## Ziele dieses Repositories
+
+Dieses Repository soll eine Ressource für Fachleute, Berater und Unternehmen sein, die sich mit den Anforderungen der ISO 27001 beschäftigen. Es bietet:
+- Leitfäden für die Implementierung eines ISMS.
+- Checklisten für die Vorbereitung auf Audits.
+- Beispiele für Sicherheitsrichtlinien und Dokumentationen.
+- Tipps und Tricks aus der Praxis.
+
+## Inhalte
+
+Geplante Inhalte des Repositories:
+1. **ISMS-Dokumentationsvorlagen**: Beispielhafte Vorlagen für Sicherheitsrichtlinien, Risikoanalysen und Kontrollkataloge.
+2. **Audit-Checklisten**: Umfassende Checklisten, um sich auf ein ISO 27001-Audit vorzubereiten.
+3. **White-Hat-Hacking-Praktiken**: Sicherheitsüberprüfungen, die mit den ISO-Standards im Einklang stehen.
+4. **Tools & Scripts**: Nützliche Skripte und Tools, um die Informationssicherheit zu verbessern.
+
+## Nutzung
+
+Alle Dateien in diesem Repository stehen unter der [Lizenz XYZ]. Du bist herzlich eingeladen, die Ressourcen zu nutzen, anzupassen und Feedback zu geben. Pull Requests und Issues sind willkommen!
+
+## Über mich
+
+Ich bin spezialisiert auf den Bereich der Informationssicherheit und unterstütze Organisationen bei der Implementierung von Managementsystemen gemäß ISO 27001, einschließlich der Vorbereitung bis zur Zertifizierungsreife.
+
+---
+
+Lass uns gemeinsam die Welt ein Stück sicherer machen! 💻🔒
+
